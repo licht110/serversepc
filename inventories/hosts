@@ -1,0 +1,6 @@
+---
+localhost:
+  :roles:
+    - test
+  :vars:
+    :test: "test"
